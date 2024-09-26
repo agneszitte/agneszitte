@@ -41,7 +41,7 @@ I'm a **Senior Software Engineer** passionate about creating cross-platform apps
 
 ## 🎯 A Little About Me:
 - 🌱 Always learning and exploring new technologies.
-- 🤝 I love contributing to **open-source projects** and helping users/teams build high-quality software.
+- 🤝 I love contributing to **open-source projects** <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20" height="20" /> and helping users/teams build high-quality software.
 - 🎨 When I'm not coding, I'm diving into various creative hobbies.
 - ⚡ **Fun fact**: Being neurodivergent 🧠 allows me to channel my curiosity and energy into solving challenges creatively, whether it’s building apps or exploring new hobbies.
 - 😄 Pronouns: She/Her
