@@ -52,4 +52,5 @@ I'm a **Senior Software Engineer** passionate about creating cross-platform apps
 ## 📊 GitHub Stats:
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=agneszitte&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agneszitte&layout=compact&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=agneszitte&theme=transparent)](https://git.io/streak-stats)
 
