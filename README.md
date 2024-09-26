@@ -2,7 +2,7 @@
 
 I'm a **Senior Software Engineer** passionate about creating cross-platform apps with [**Uno Platform**](https://platform.uno/), **.NET (C# / XAML)**, and more.
 
-- 🔭 I’m currently one of the core maintainers of the open-source [@unoplatform](https://github.com/unoplatform/uno) project.
+- 🛠️ I’m currently one of the core maintainers of the open-source [@unoplatform](https://github.com/unoplatform/uno) project.
 - 💬 Ask me about XAML, C#, UWP, WinUI 3, and cross-platform development with [Uno Platform](https://platform.uno/).
 - 📫 Reach me via: [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/XjsmQHdKfq) [![Twitter/X](https://img.shields.io/badge/-Twitter/X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AgnesZitte) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zitteagnes/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agneszitte)
 
