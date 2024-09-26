@@ -45,6 +45,7 @@ I'm a **Senior Software Engineer** passionate about creating cross-platform apps
 - 🎨 When I'm not coding, I'm diving into various creative hobbies.
 - ⚡ **Fun fact**: Being neurodivergent 🧠 allows me to channel my curiosity and energy into solving challenges creatively, whether it’s building apps or exploring new hobbies.
 - 😄 Pronouns: She/Her
+- ![image](https://github.com/user-attachments/assets/913ac776-4f4c-4059-8c47-88f5691d53f3)
 
 ---
 
