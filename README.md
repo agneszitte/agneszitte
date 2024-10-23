@@ -42,7 +42,7 @@ I'm a **Senior Software Engineer** passionate about creating cross-platform apps
 ## 🎯 A Little About Me:
 - 🌱 Always learning and exploring new technologies.
 - 🤝 I love contributing to **open-source projects** <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20" height="20" /> and helping users/teams build high-quality software.
-- 🎨 When I'm not coding, I'm diving into various creative hobbies.
+- 🎨 When I'm not coding, I'm diving into various creative projects/hobbies.
 - ⚡ **Fun fact**: Being neurospicy 🧠🌶️ allows me to channel my curiosity and energy into solving challenges creatively, whether it’s building apps or exploring new hobbies.
 - 😄 Pronouns: She/Her
 - ![image](https://github.com/user-attachments/assets/913ac776-4f4c-4059-8c47-88f5691d53f3)
