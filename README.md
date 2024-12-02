@@ -36,6 +36,7 @@ I'm a **Senior Software Engineer** passionate about creating cross-platform apps
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Office 365](https://img.shields.io/badge/-Office%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
