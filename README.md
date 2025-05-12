@@ -1,6 +1,6 @@
 # Hi there, I'm Agnès Zitte! 👋<<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="35" height="35" />/>
 
-I'm a **Senior Software Engineer** passionate about creating cross-platform apps with [**Uno Platform**](https://platform.uno/), **.NET (C# / XAML)**, and more.
+I'm a **Lead Software Engineer** passionate about creating cross-platform apps with [**Uno Platform**](https://platform.uno/), **.NET (C# / XAML)**, and more.
 
 - 🛠️ I’m currently one of the core maintainers of the open-source [@unoplatform](https://github.com/unoplatform/uno) project.
 - 💬 Ask me about XAML, C#, UWP, WinUI 3, and cross-platform development with [Uno Platform](https://platform.uno/).
