@@ -84,12 +84,14 @@ I help teams and the broader .NET community design and ship cross-platform appli
 ---
 
 ## 🎯 A Little About Me:
-- 🌱 Always learning and exploring new technologies.
-- 🤝 I love contributing to **open-source projects** <img src="https://raw.githubusercontent.com/gist/christophermanning/4460135/raw/7278f8125f4508e096396b024304daf238e38b97/octocat.svg" width="20" height="20" /> and helping users/teams build high-quality software.
-- 🎨 When I'm not coding, I'm diving into various creative projects/hobbies.
-- ⚡ **Fun fact**: Being neurospicy 🧠🌶️ allows me to channel my curiosity and energy into solving challenges creatively, whether it’s building apps or exploring new hobbies.
-- 😄 Pronouns: She/Her
-- ![image](https://github.com/user-attachments/assets/913ac776-4f4c-4059-8c47-88f5691d53f3)
+<ul>
+  <li>🌱 Always learning and exploring new technologies.</li>
+  <li>🤝 I love contributing to <strong>open-source projects</strong> <img src="https://raw.githubusercontent.com/gist/christophermanning/4460135/raw/7278f8125f4508e096396b024304daf238e38b97/octocat.svg" width="20" alt="octocat"> and helping users/teams build high-quality software.</li>
+  <li>🎨 When I'm not coding, I'm diving into various creative projects/hobbies.</li>
+  <li>⚡ <strong>Fun fact</strong>: Being neurospicy 🧠🌶️ allows me to channel my curiosity and energy into solving challenges creatively, whether it’s building apps or exploring new hobbies.</li>
+  <li>😄 Pronouns: She/Her</li>
+  <li><img src="https://github.com/user-attachments/assets/913ac776-4f4c-4059-8c47-88f5691d53f3" alt="image"></li>
+</ul>
 
 ---
 
