@@ -1,4 +1,4 @@
-# Hi there, I'm Agnès Zitte! 👋 < <img src="https://raw.githubusercontent.com/gist/christophermanning/4460135/raw/7278f8125f4508e096396b024304daf238e38b97/octocat.svg" width="35" alt="octocat" /> />
+# 👋 Hi there, I'm Agnès Zitte! < <img src="https://raw.githubusercontent.com/gist/christophermanning/4460135/raw/7278f8125f4508e096396b024304daf238e38b97/octocat.svg" width="35" alt="octocat" /> />
 
 <!-- Typing animation -->
 <p align="center">
