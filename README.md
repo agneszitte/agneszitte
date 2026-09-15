@@ -71,12 +71,12 @@ I help teams and the broader .NET community design and ship cross-platform appli
 
 
 ### 🤖 AI & Intelligent Tooling
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-222222?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-6C63FF?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square)
